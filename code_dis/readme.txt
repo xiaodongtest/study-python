@@ -14,3 +14,5 @@
 6、oschina 代码泄露排查
 
 依赖模块  requests re time json os sys supprocess 版本是python 2.7都可以
+
+脚本执行后，会在目录下生成图示txt文件，github_xielou是使用语法搜索的结果  mayun是码云的搜索结果  其他txt文档看名字就知道，log文件是gitprey的排查结果
